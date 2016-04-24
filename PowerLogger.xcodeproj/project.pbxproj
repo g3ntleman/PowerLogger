@@ -23,6 +23,7 @@
 /* End PBXCopyFilesBuildPhase section */
 
 /* Begin PBXFileReference section */
+		8D28B4C61CCD2550003F17A5 /* README.md */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = net.daringfireball.markdown; path = README.md; sourceTree = "<group>"; };
 		8D585D8C1CA8457500917A04 /* PowerLogger */ = {isa = PBXFileReference; explicitFileType = "compiled.mach-o.executable"; includeInIndex = 0; path = PowerLogger; sourceTree = BUILT_PRODUCTS_DIR; };
 		8D585D8F1CA8457500917A04 /* PowerLogger.c */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.c; path = PowerLogger.c; sourceTree = "<group>"; };
 		8D585D961CA846A800917A04 /* PowerLogger.conf */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; path = PowerLogger.conf; sourceTree = "<group>"; };
@@ -42,6 +43,7 @@
 		8D585D831CA8457500917A04 = {
 			isa = PBXGroup;
 			children = (
+				8D28B4C61CCD2550003F17A5 /* README.md */,
 				8D585D8E1CA8457500917A04 /* PowerLogger */,
 				8D585D8D1CA8457500917A04 /* Products */,
 			);
@@ -241,6 +243,7 @@
 				8D585D951CA8457500917A04 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 /* End XCConfigurationList section */
 	};
